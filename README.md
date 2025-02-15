@@ -7,8 +7,9 @@
 ## 📊 Estatísticas do GitHub  
 
 <p align="center">
-    ![Carlos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlos140k&show_icons=true&theme=tokyonight)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos140k&layout=compact&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=carlos140k&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos140k&layout=compact&theme=tokyonight" alt="Linguagens mais usadas">
 </p>
 
 ---
@@ -16,11 +17,11 @@
 ## 🛠️ Tecnologias & Ferramentas  
 
 <p align="center">
-    ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-    ![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
-    ![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
-    ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-    ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-    ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 </p> 
