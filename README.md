@@ -1,17 +1,14 @@
 # 👋 Olá, sou Carlos! 
 
-🚀 Explorando o mundo da programação e sempre aprendendo algo novo.  
+🚀 Explorando o mundo da programação e sempre aprendendo algo novo.   
 
 ---
 
 ## 📊 Estatísticas do GitHub  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlos140k&theme=dark" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos140k&layout=compact&theme=dark" alt="Linguagens mais usadas">
+    ![Carlos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlos140k&show_icons=true&theme=tokyonight)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos140k&layout=compact&theme=tokyonight)
 </p>
 
 ---
@@ -19,9 +16,11 @@
 ## 🛠️ Tecnologias & Ferramentas  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+    ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+    ![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
+    ![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
+    ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+    ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+    ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
 </p> 
