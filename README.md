@@ -6,11 +6,16 @@
 
 ## 📊 Estatísticas do GitHub  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlos140k&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos140k&layout=compact&theme=tokyonight" alt="Linguagens mais usadas">
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=carlos140k&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400px">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos140k&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" width="400px">
+    </td>
+  </tr>
+</table>
 
 ---
 
